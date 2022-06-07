@@ -1,0 +1,12 @@
+{
+  "name": "placehold",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dummy": "node index.js $npm_config_size"
+  },
+  "dependencies": {
+    "clipboardy": "2.0.0"
+  }
+}
